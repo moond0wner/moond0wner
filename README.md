@@ -3,7 +3,7 @@
 
  
 [![codewars](https://www.codewars.com/users/moond0wner/badges/large)](https://www.codewars.com/users/moond0wner)
-[![stepik](https://stepik.org/users/590288318/profile)](https://stepik.org/users/590288318/profile)
+stepik - https://stepik.org/users/590288318/profile
 
 
 
