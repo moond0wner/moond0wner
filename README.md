@@ -3,8 +3,8 @@
 
  
 [![codewars](https://www.codewars.com/users/moond0wner/badges/large)](https://www.codewars.com/users/moond0wner)
-<h1> Stepik - https://stepik.org/users/590288318/profile </h1>
-<h1> Steam - https://steamcommunity.com/id/moond0wner/ </h1>
+<h1 font-size: small> Stepik - https://stepik.org/users/590288318/profile </h1>
+<h1 font-size: small> Steam - https://steamcommunity.com/id/moond0wner/ </h1>
 
 
 
