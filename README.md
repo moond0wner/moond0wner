@@ -1,4 +1,4 @@
-<h1> Программирую на python </h1>
+<h1> Чайник в мире IT. Программирую на python. </h1>
 <h3> Как со мной связаться/How to contact me:  tg: nevertoolate00.</h3>
 
  
