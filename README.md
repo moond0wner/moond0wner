@@ -1,6 +1,4 @@
-<h1> Чайник в мире IT. Программирую на Python. </h1>
-<h2> Сохраняю здесь свои небольшие проекты. </h2>
-<h3> Как со мной связаться/How to contact me:  tg: nevertoolate00.</h3>
+<h1> python, c plus plus </h1>
 
  
 [![codewars](https://www.codewars.com/users/moond0wner/badges/large)](https://www.codewars.com/users/moond0wner)
