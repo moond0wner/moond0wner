@@ -1,10 +1,10 @@
-<h1>Main programming language: Python</h1>
+<h1>Python, Aiogram, Sqlite (temporarily)</h1>
 
  
 [![codewars](https://www.codewars.com/users/moond0wner/badges/large)](https://www.codewars.com/users/moond0wner)
 <h3> Telegram: nevertoolate00 </h3>
 <h3> Stepik - https://stepik.org/users/590288318/profile </h3>
-<h3> Steam - https://steamcommunity.com/id/moond0wner/ </h3>
+
 
 
 
