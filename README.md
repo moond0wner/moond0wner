@@ -1,4 +1,4 @@
-<h1>Python, Aiogram, aiosqlite, SQLAlchemy</h1>
+<h1>Python, Aiogram, SQlite/PostgreSQL, SQLAlchemy</h1>
 
  
 [![codewars](https://www.codewars.com/users/moond0wner/badges/large)](https://www.codewars.com/users/moond0wner)
