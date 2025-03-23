@@ -2,7 +2,7 @@
   <img src=https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3ZrM2tuZm1vbnNzYXg3NmVrZW16ZWRxZHdsdTlwY2l6Y2lveG42YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K0JrA2VbkFy2A/giphy.gif
    width="300"/>
   <div id="badges">
-  <a href='"https://t.me/nevertoolate00'>
+  <a href='https://t.me/nevertoolate00'>
    <img src="https://img.shields.io/badge/Telegram-blue?logo=linkedin&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href='https://vk.com/nevertoolate00'>
