@@ -20,11 +20,9 @@
  :man_technologist: About Me :
 </div>
 
-- I'm a Backend developer from Russia.
+- :seedling:I'm a Backend developer from Russia.
 
 - :telescope: I'm developing telegram bots and I'm learning how to develop an API.
-
-- :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on CodeWars and Stepik.
 
