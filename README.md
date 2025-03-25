@@ -20,7 +20,7 @@
  :man_technologist: About Me :
 </div>
 
-- :seedling:I'm a Backend developer from Russia.
+- :seedling:I'm a Python developer from Russia.
 
 - :telescope: I'm developing telegram bots, telegram web app, and learning how to develop API.
 
