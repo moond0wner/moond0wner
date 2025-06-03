@@ -22,7 +22,7 @@
 
 - :seedling:I'm a Python developer from Russia.
 
-- :telescope: I'm developing telegram bots, telegram web app, and learning how to develop API.
+- :telescope: I'm developing telegram bots and learning how to develop API.
 
 - :zap: In my free time, I solve problems on CodeWars and Stepik.
 
