@@ -20,20 +20,17 @@
  :man_technologist: About Me :
 </div>
 
-- :seedling:I'm a Python developer from Russia.
-
-- :telescope: I'm developing telegram bots and learning how to develop API.
-
-- :zap: In my free time, I solve problems on CodeWars and Stepik.
-
+- :seedling: Практикуюсь в пет-проектах на Python. Также познаю Go и C.
 ---
 
 :hammer_and_wrench: Languages and Tools :
 <div>
   <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg' title='Python' **alt='Python' width="100" height="100"/>
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title='Go' **alt='Go' width='100' height="100"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title='SQLAlchemy' **alt='sqlalchemy' width='100' height='100'/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title='SQLite' **alt='sqlite' width='100' height='100'/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title='PostgreSQL' **alt='postgresql' width='100' height='100'/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" **alt="redis" width="100" height="100"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title='FastAPI' **alt='fastapi' width='100' height='100'/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="100" height="100"/>
 </div>
