@@ -3,10 +3,7 @@
    width="300"/>
   <div id="badges">
   <a href='https://t.me/nevertoolate00'>
-   <img src="https://img.shields.io/badge/Telegram-blue?logo=linkedin&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <a href='https://vk.com/nevertoolate00'>
-   <img src="https://img.shields.io/badge/VK-blue?logo=linkedin&logoColor=white" alt="VK Badge"/>
+   <img src="https://img.shields.io/badge/TG-blue?logo=linkedin&logoColor=white" alt="Telegram Badge"/>
   </a>
    <img src="https://komarev.com/ghpvc/?username=moond0wner&style=flat-square&color=blue" alt=""/>
    <h1>
@@ -16,13 +13,6 @@
 <div align="center">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3l6eHNhYjJpN2czeHh0MWFjb3Jjc2FsMmR0OGtxOGdxNW40d3Q0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="600" height="300"/>
 </div>
- </div>
- :man_technologist: About Me :
-</div>
-
-- :seedling: Практикуюсь в пет-проектах на Python. Также познаю Go и C.
----
-
 :hammer_and_wrench: Languages and Tools :
 <div>
   <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg' title='Python' **alt='Python' width="100" height="100"/>
