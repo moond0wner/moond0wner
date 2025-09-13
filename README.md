@@ -16,6 +16,8 @@
 :hammer_and_wrench: Languages and Tools :
 <div>
   <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg' title='Python' **alt='Python' width="100" height="100"/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg' title='C' **alt='C' width='100' height='100'/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg' title='C++' **alt='C++' width='100' height='100'/>
   <img src ="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title='Go' **alt='Go' width='100' height="100"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title='SQLAlchemy' **alt='sqlalchemy' width='100' height='100'/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title='SQLite' **alt='sqlite' width='100' height='100'/>
